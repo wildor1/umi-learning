@@ -1,5 +1,5 @@
 # umi-learning
-learninng umi
+learning umi
 
 clone  
 
