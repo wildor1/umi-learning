@@ -3,8 +3,8 @@
 
 # 忽略所有.class文件
 *.class
-
-/src/.umi/*
+# 忽略文件夹
+/src/.umi
 /.DS_Store
 /.idea/*
 #不忽略根目录下bin文件夹中的.java
