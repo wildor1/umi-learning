@@ -7,7 +7,7 @@ export default {
       component: '../layout',
       routes: [
         {path: '/hello',component: './Hello'},
-        {path: '/layout', component: './layout',},
+        {path: '/page', component: './page',},
         {
           path: '/dashboard',
           routes: [

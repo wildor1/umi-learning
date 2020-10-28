@@ -16,7 +16,7 @@ export default class BasicLayout extends Component {
           <Menu theme="dark" mode="inline" defaultSelectedKeys={['1']}>
             <Menu.Item key="1">
               <Icon type="pie-chart" />
-              <span>Helloworld</span>
+              <Link to="/page"><span>Helloworld</span></Link>
             </Menu.Item>
             <SubMenu
               key="sub1"
