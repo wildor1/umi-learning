@@ -5,7 +5,7 @@
 *.class
 
 /src/.umi/*
-
+/.DS_Store
 /.idea/*
 #不忽略根目录下bin文件夹中的.java
 !/bin/*.java
