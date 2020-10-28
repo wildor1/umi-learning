@@ -1,4 +1,4 @@
-# umi-learninng
+# umi-learning
 learninng umi
 
 clone  
