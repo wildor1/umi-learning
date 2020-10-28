@@ -4,5 +4,7 @@
 # 忽略所有.class文件
 *.class
 
+/src/.umi/*
+
 #不忽略根目录下bin文件夹中的.java
 !/bin/*.java
