@@ -2,5 +2,7 @@
 learninng umi
 
 clone  
+
 npm install
+
 npm start
